@@ -25,7 +25,10 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 tabela 
 
-são tecnicas para capturar,modela e especificar os requesitos de um site,caso de uso corresponde a um conjunto de comportamentos que o sistema pode realizar em interação com seus atores
+| numero da uc | nome da uc | descrição da uc | 
+|--------------|------------|-----------------|
+| uc 01        | email      | cadastrar email |   
+|              |            |                 |
 
 links do site
 
